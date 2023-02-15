@@ -1,11 +1,19 @@
 ﻿<Properties StartupConfiguration="{9348E356-BB5F-4889-9FDE-722AF53D3C9E}|Default">
-  <MonoDevelop.Ide.ItemProperties.git__mvc FirstBuild="True" PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.git__mvc PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="git_mvc/Models/Personne.cs">
+    <Files>
+      <File FileName="git_mvc/Models/Personne.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="git_mvc" expanded="True">
-            <Node name="git_mvc" selected="True" />
+            <Node name="git_mvc" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
