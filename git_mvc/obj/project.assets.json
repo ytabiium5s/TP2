@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/youness/Projects/git_mvc/git_mvc/git_mvc.csproj",
+      "projectUniqueName": "/Users/youness/Projects/git_mvc_tp2/git_mvc/git_mvc.csproj",
       "projectName": "git_mvc",
-      "projectPath": "/Users/youness/Projects/git_mvc/git_mvc/git_mvc.csproj",
+      "projectPath": "/Users/youness/Projects/git_mvc_tp2/git_mvc/git_mvc.csproj",
       "packagesPath": "/Users/youness/.nuget/packages/",
-      "outputPath": "/Users/youness/Projects/git_mvc/git_mvc/obj/",
+      "outputPath": "/Users/youness/Projects/git_mvc_tp2/git_mvc/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/youness/.nuget/NuGet/NuGet.Config"
